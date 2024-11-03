@@ -1,0 +1,282 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
+141.144.202.132,443,443,true,FRA,Europe,DE,Frankfurt,330,7.12
+130.162.234.139,443,443,true,FRA,Europe,DE,Frankfurt,267,7.11
+152.70.185.252,443,443,true,FRA,Europe,DE,Frankfurt,164,7.11
+141.148.227.14,443,443,true,FRA,Europe,DE,Frankfurt,315,7.10
+89.168.102.215,443,443,true,FRA,Europe,DE,Frankfurt,234,7.09
+193.123.33.222,443,443,true,FRA,Europe,DE,Frankfurt,373,7.08
+152.67.139.232,443,443,true,CDG,Europe,FR,Paris,366,7.07
+164.152.26.70,2086,443,true,ORD,North America,US,Chicago,211,7.07
+141.144.195.179,443,443,true,FRA,Europe,DE,Frankfurt,313,7.06
+150.230.149.37,443,443,true,FRA,Europe,DE,Frankfurt,233,7.06
+141.147.47.13,443,443,true,FRA,Europe,DE,Frankfurt,341,7.05
+132.145.239.249,443,443,true,FRA,Europe,DE,Frankfurt,745,7.03
+141.144.250.125,443,443,true,FRA,Europe,DE,Frankfurt,180,7.02
+158.180.15.218,443,443,true,FRA,Europe,DE,Frankfurt,256,7.00
+193.123.60.46,443,443,true,FRA,Europe,DE,Frankfurt,321,6.99
+130.162.218.86,443,443,true,FRA,Europe,DE,Frankfurt,245,6.98
+79.72.84.111,443,443,true,CDG,Europe,FR,Paris,265,6.97
+84.235.171.209,443,443,true,FRA,Europe,DE,Frankfurt,229,6.96
+143.47.181.195,443,443,true,CDG,Europe,FR,Paris,227,6.95
+141.147.87.196,443,443,true,FRA,Europe,DE,Frankfurt,351,6.94
+141.147.109.94,443,443,true,FRA,Europe,DE,Frankfurt,296,6.93
+89.168.112.118,8443,443,true,FRA,Europe,DE,Frankfurt,277,6.92
+130.162.230.116,443,443,true,FRA,Europe,DE,Frankfurt,310,6.91
+158.101.221.107,443,443,true,FRA,Europe,DE,Frankfurt,322,6.91
+79.76.103.5,443,443,true,CDG,Europe,FR,Paris,315,6.90
+193.123.33.171,443,443,true,FRA,Europe,DE,Frankfurt,287,6.90
+84.235.168.83,443,443,true,FRA,Europe,DE,Frankfurt,282,6.89
+84.235.163.11,443,443,true,FRA,Europe,DE,Frankfurt,248,6.87
+132.145.54.84,8443,443,true,LHR,Europe,GB,London,408,6.87
+158.178.147.9,443,443,true,CDG,Europe,FR,Paris,291,6.86
+141.147.35.15,443,443,true,FRA,Europe,DE,Frankfurt,216,6.85
+141.148.235.102,443,443,true,FRA,Europe,DE,Frankfurt,330,6.85
+141.147.25.81,443,443,true,FRA,Europe,DE,Frankfurt,289,6.83
+150.230.124.16,443,443,true,FRA,Europe,DE,Frankfurt,242,6.83
+79.76.114.244,443,443,true,FRA,Europe,DE,Frankfurt,252,6.82
+193.123.56.210,443,443,true,FRA,Europe,DE,Frankfurt,311,6.82
+138.2.153.15,443,443,true,FRA,Europe,DE,Frankfurt,275,6.81
+143.47.185.147,443,443,true,FRA,Europe,DE,Frankfurt,237,6.81
+130.162.248.169,443,443,true,FRA,Europe,DE,Frankfurt,294,6.80
+129.159.245.206,443,443,true,FRA,Europe,DE,Frankfurt,158,6.78
+130.61.107.238,8443,443,true,FRA,Europe,DE,Frankfurt,352,6.78
+84.8.146.60,443,443,true,FRA,Europe,DE,Frankfurt,222,6.78
+141.147.106.125,443,443,true,FRA,Europe,DE,Frankfurt,368,6.78
+150.230.119.13,443,443,true,FRA,Europe,DE,Frankfurt,226,6.77
+141.144.236.220,443,443,true,FRA,Europe,DE,Frankfurt,288,6.77
+132.226.214.233,443,443,true,FRA,Europe,DE,Frankfurt,338,6.75
+158.101.223.84,443,443,true,FRA,Europe,DE,Frankfurt,227,6.73
+138.2.172.244,443,443,true,FRA,Europe,DE,Frankfurt,177,6.73
+150.230.21.1,443,443,true,FRA,Europe,DE,Frankfurt,252,6.72
+152.70.61.88,443,443,true,FRA,Europe,DE,Frankfurt,312,6.72
+132.226.214.239,443,443,true,FRA,Europe,DE,Frankfurt,373,6.72
+130.162.172.152,443,443,true,CDG,Europe,FR,Paris,289,6.69
+140.238.214.247,443,443,true,MXP,Europe,IT,Milan,262,6.69
+158.101.204.135,443,443,true,FRA,Europe,DE,Frankfurt,276,6.67
+89.168.102.85,443,443,true,FRA,Europe,DE,Frankfurt,296,6.66
+130.162.187.39,443,443,true,FRA,Europe,DE,Frankfurt,283,6.66
+140.84.179.114,443,443,true,DFW,North America,US,Dallas,285,6.65
+130.162.179.0,443,443,true,FRA,Europe,DE,Frankfurt,312,6.65
+141.147.64.236,443,443,true,CDG,Europe,FR,Paris,348,6.63
+193.123.35.68,443,443,true,FRA,Europe,DE,Frankfurt,381,6.63
+130.162.250.180,8443,443,true,FRA,Europe,DE,Frankfurt,265,6.62
+141.148.224.37,443,443,true,FRA,Europe,DE,Frankfurt,233,6.60
+158.178.156.203,443,443,true,FRA,Europe,DE,Frankfurt,338,6.59
+143.47.178.235,443,443,true,FRA,Europe,DE,Frankfurt,184,6.58
+130.162.178.177,443,443,true,FRA,Europe,DE,Frankfurt,240,6.57
+141.144.196.78,443,443,true,FRA,Europe,DE,Frankfurt,263,6.57
+143.47.229.115,443,443,true,FRA,Europe,DE,Frankfurt,257,6.56
+152.70.60.198,443,443,true,FRA,Europe,DE,Frankfurt,319,6.53
+138.2.160.57,443,443,true,FRA,Europe,DE,Frankfurt,191,6.52
+138.2.130.141,443,443,true,FRA,Europe,DE,Frankfurt,333,6.50
+141.144.239.9,443,443,true,FRA,Europe,DE,Frankfurt,254,6.48
+84.8.152.108,443,443,true,FRA,Europe,DE,Frankfurt,263,6.47
+143.47.229.221,443,443,true,FRA,Europe,DE,Frankfurt,185,6.46
+138.2.151.5,443,443,true,FRA,Europe,DE,Frankfurt,218,6.44
+144.21.34.132,443,443,true,FRA,Europe,DE,Frankfurt,179,6.43
+84.8.144.253,443,443,true,FRA,Europe,DE,Frankfurt,263,6.36
+150.230.120.206,443,443,true,FRA,Europe,DE,Frankfurt,228,6.36
+143.47.250.25,443,443,true,FRA,Europe,DE,Frankfurt,170,6.31
+141.148.235.80,443,443,true,FRA,Europe,DE,Frankfurt,326,6.30
+158.180.82.203,8443,443,true,ICN,Asia Pacific,KR,Seoul,179,6.29
+89.168.119.222,443,443,true,FRA,Europe,DE,Frankfurt,294,6.28
+141.147.102.133,443,443,true,FRA,Europe,DE,Frankfurt,329,6.25
+141.147.74.108,443,443,true,FRA,Europe,DE,Frankfurt,296,6.25
+138.2.167.151,443,443,true,FRA,Europe,DE,Frankfurt,349,6.25
+79.72.80.107,443,443,true,FRA,Europe,DE,Frankfurt,252,6.24
+150.230.123.187,443,443,true,FRA,Europe,DE,Frankfurt,241,6.23
+130.162.33.56,443,443,true,FRA,Europe,DE,Frankfurt,248,6.21
+168.138.162.187,443,443,true,SIN,Asia Pacific,SG,Singapore,67,6.20
+130.162.172.33,443,443,true,FRA,Europe,DE,Frankfurt,306,6.17
+158.180.25.133,443,443,true,FRA,Europe,DE,Frankfurt,230,6.16
+141.147.118.4,443,443,true,FRA,Europe,DE,Frankfurt,223,6.16
+130.162.250.180,443,443,true,FRA,Europe,DE,Frankfurt,244,6.15
+130.162.36.143,443,443,true,FRA,Europe,DE,Frankfurt,290,6.10
+130.162.38.61,443,443,true,FRA,Europe,DE,Frankfurt,320,6.07
+132.226.133.22,443,443,true,FRA,Europe,DE,Frankfurt,310,6.03
+40.233.70.7,8443,443,true,YYZ,North America,CA,Toronto,372,6.03
+130.162.225.93,443,443,true,FRA,Europe,DE,Frankfurt,284,5.99
+141.147.70.111,443,443,true,FRA,Europe,DE,Frankfurt,301,5.95
+89.168.119.217,443,443,true,FRA,Europe,DE,Frankfurt,184,5.91
+158.179.167.73,443,443,true,ICN,Asia Pacific,KR,Seoul,279,5.90
+144.21.43.32,443,443,true,FRA,Europe,DE,Frankfurt,183,5.88
+129.151.198.3,2053,443,true,ARN,Europe,SE,Stockholm,403,5.86
+143.47.230.105,443,443,true,FRA,Europe,DE,Frankfurt,216,5.86
+140.245.88.19,443,443,true,NRT,Asia Pacific,JP,Tokyo,172,5.85
+168.138.165.174,443,443,true,SIN,Asia Pacific,SG,Singapore,86,5.82
+168.138.212.80,443,443,true,NRT,Asia Pacific,JP,Tokyo,125,5.77
+155.248.184.2,443,443,true,NRT,Asia Pacific,JP,Tokyo,71,5.77
+141.147.101.215,443,443,true,FRA,Europe,DE,Frankfurt,355,5.75
+141.147.65.126,443,443,true,FRA,Europe,DE,Frankfurt,279,5.74
+168.138.50.249,443,443,true,KIX,Asia Pacific,JP,Osaka,78,5.71
+129.151.204.91,443,443,true,ARN,Europe,SE,Stockholm,419,5.70
+129.146.7.98,443,443,true,LAX,North America,US,Los Angeles,338,5.64
+140.238.58.181,2053,443,true,NRT,Asia Pacific,JP,Tokyo,197,5.61
+64.110.104.30,443,443,true,KIX,Asia Pacific,JP,Osaka,342,5.60
+130.162.160.201,443,443,true,FRA,Europe,DE,Frankfurt,247,5.59
+141.147.98.174,443,443,true,CDG,Europe,FR,Paris,358,5.57
+152.70.39.199,2083,2083,true,ICN,Asia Pacific,KR,Seoul,309,5.57
+130.162.165.230,443,443,true,FRA,Europe,DE,Frankfurt,279,5.55
+141.147.68.193,443,443,true,FRA,Europe,DE,Frankfurt,325,5.53
+217.142.128.252,443,443,true,ICN,Asia Pacific,KR,Seoul,252,5.49
+158.178.206.197,2053,443,true,CDG,Europe,FR,Paris,287,5.48
+131.186.27.112,2096,443,true,ICN,Asia Pacific,KR,Seoul,180,5.47
+158.179.207.182,8443,443,true,ARN,Europe,SE,Stockholm,332,5.45
+193.122.100.30,2053,443,true,ICN,Asia Pacific,KR,Seoul,166,5.44
+152.70.155.147,2096,2096,true,LAX,North America,US,Los Angeles,232,5.42
+152.70.71.23,443,443,true,MRS,Europe,FR,Marseille,237,5.40
+152.70.155.147,2087,2087,true,LAX,North America,US,Los Angeles,291,5.40
+132.145.95.91,443,443,true,ICN,Asia Pacific,KR,Seoul,279,5.38
+141.147.74.78,443,443,true,FRA,Europe,DE,Frankfurt,217,5.37
+152.70.155.147,2083,2083,true,LAX,North America,US,Los Angeles,276,5.31
+150.230.7.216,443,443,true,KIX,Asia Pacific,JP,Osaka,164,5.31
+141.147.107.161,443,443,true,FRA,Europe,DE,Frankfurt,317,5.30
+152.70.155.147,2053,2053,true,LAX,North America,US,Los Angeles,196,5.26
+129.151.198.3,8443,443,true,ARN,Europe,SE,Stockholm,402,5.23
+141.147.94.227,443,443,true,FRA,Europe,DE,Frankfurt,326,5.22
+129.154.46.115,443,443,true,HYD,Asia Pacific,IN,Hyderabad,222,5.20
+129.159.241.172,443,443,true,FRA,Europe,DE,Frankfurt,167,5.16
+131.186.17.132,443,443,true,ICN,Asia Pacific,KR,Seoul,179,5.16
+141.147.67.132,443,443,true,FRA,Europe,DE,Frankfurt,287,5.16
+193.122.100.30,2053,443,true,ICN,Asia Pacific,KR,Seoul,127,5.15
+140.83.60.81,8443,443,true,KIX,Asia Pacific,JP,Osaka,195,5.15
+89.168.43.28,443,443,true,CDG,Europe,FR,Paris,329,5.15
+152.67.65.201,443,443,true,ZRH,Europe,CH,Zurich,177,5.12
+192.9.180.162,443,443,true,SYD,Oceania,AU,Sydney,326,5.12
+193.123.250.209,2087,2096,true,ICN,Asia Pacific,KR,Seoul,160,5.11
+129.159.34.122,443,443,true,SJC,North America,US,San Jose,175,5.08
+144.24.169.81,2053,443,true,FRA,Europe,DE,Frankfurt,302,5.08
+150.230.149.208,443,443,true,FRA,Europe,DE,Frankfurt,295,5.02
+141.147.78.137,443,443,true,FRA,Europe,DE,Frankfurt,304,4.99
+141.145.217.226,443,443,true,CDG,Europe,FR,Paris,194,4.98
+152.70.155.147,443,443,true,LAX,North America,US,Los Angeles,213,4.96
+141.147.47.32,8443,443,true,FRA,Europe,DE,Frankfurt,255,4.96
+129.159.22.4,443,443,true,MAA,Asia Pacific,IN,Chennai,54,4.95
+141.147.65.233,443,443,true,FRA,Europe,DE,Frankfurt,282,4.95
+158.178.153.80,2096,443,true,AMS,Europe,NL,Amsterdam,371,4.88
+141.147.102.253,443,443,true,FRA,Europe,DE,Frankfurt,323,4.87
+152.67.78.184,443,443,true,ZRH,Europe,CH,Zurich,160,4.85
+152.70.57.182,443,443,true,AMS,Europe,NL,Amsterdam,349,4.79
+152.67.231.219,443,443,true,SJC,North America,US,San Jose,418,4.78
+158.101.215.45,8443,443,true,AMS,Europe,NL,Amsterdam,311,4.75
+140.238.212.95,443,443,true,MXP,Europe,IT,Milan,236,4.75
+84.235.169.234,443,443,true,AMS,Europe,NL,Amsterdam,204,4.69
+158.101.199.249,8443,443,true,AMS,Europe,NL,Amsterdam,253,4.66
+193.122.107.147,443,443,true,ICN,Asia Pacific,KR,Seoul,97,4.58
+152.70.163.164,8080,443,true,FRA,Europe,DE,Frankfurt,173,4.56
+152.70.59.90,8443,443,true,AMS,Europe,NL,Amsterdam,286,4.56
+141.145.205.115,8443,8443,true,CDG,Europe,FR,Paris,248,4.53
+130.162.228.90,443,443,true,FRA,Europe,DE,Frankfurt,283,4.51
+141.148.229.106,443,443,true,AMS,Europe,NL,Amsterdam,308,4.51
+152.70.155.147,8443,8443,true,LAX,North America,US,Los Angeles,292,4.49
+150.136.240.243,443,443,true,IAD,North America,US,Ashburn,236,4.47
+141.147.72.82,443,443,true,FRA,Europe,DE,Frankfurt,315,4.43
+150.230.146.170,2053,443,true,FRA,Europe,DE,Frankfurt,319,4.43
+152.70.49.115,443,443,true,AMS,Europe,NL,Amsterdam,334,4.40
+129.213.136.180,443,443,true,IAD,North America,US,Ashburn,317,4.38
+158.101.24.17,443,443,true,LAX,North America,US,Los Angeles,211,4.37
+144.24.169.81,8443,443,true,FRA,Europe,DE,Frankfurt,192,4.33
+138.2.227.94,443,443,true,SJC,North America,US,San Jose,286,4.31
+141.148.242.113,8443,443,true,AMS,Europe,NL,Amsterdam,239,4.29
+158.179.207.182,2053,443,true,ARN,Europe,SE,Stockholm,296,4.28
+217.142.243.226,443,443,true,KIX,Asia Pacific,JP,Osaka,167,4.27
+132.226.114.74,443,443,true,LAX,North America,US,Los Angeles,207,4.24
+129.146.168.102,443,443,true,LAX,North America,US,Los Angeles,366,4.18
+146.56.101.141,443,443,true,ICN,Asia Pacific,KR,Seoul,189,4.11
+140.238.23.148,443,443,true,ICN,Asia Pacific,KR,Seoul,110,4.09
+193.122.110.171,443,443,true,ICN,Asia Pacific,KR,Seoul,200,4.05
+168.138.209.31,443,443,true,NRT,Asia Pacific,JP,Tokyo,179,3.91
+193.122.107.147,443,443,true,ICN,Asia Pacific,KR,Seoul,242,3.86
+168.138.215.251,443,443,true,NRT,Asia Pacific,JP,Tokyo,111,3.86
+193.122.110.171,443,443,true,ICN,Asia Pacific,KR,Seoul,199,3.85
+132.226.31.178,443,443,true,LAX,North America,US,Los Angeles,313,3.82
+89.168.68.57,2053,443,true,FRA,Europe,DE,Frankfurt,226,3.79
+129.146.254.39,443,443,true,LAX,North America,US,Los Angeles,272,3.70
+152.70.88.98,443,443,true,ICN,Asia Pacific,KR,Seoul,240,3.64
+140.238.158.238,8080,443,true,YYZ,North America,CA,Toronto,292,3.64
+141.147.61.116,8443,443,true,FRA,Europe,DE,Frankfurt,282,3.51
+129.159.130.38,443,443,true,TLV,Middle East,IL,Tel Aviv,291,3.48
+141.147.81.220,443,443,true,FRA,Europe,DE,Frankfurt,356,3.47
+158.178.238.239,2053,443,true,SIN,Asia Pacific,SG,Singapore,104,3.30
+141.147.85.167,8443,443,true,LHR,Europe,GB,London,270,3.18
+204.216.105.106,8443,8443,true,ORD,North America,US,Chicago,278,3.01
+144.24.20.251,2053,443,true,LAX,North America,US,Los Angeles,221,3.01
+64.181.226.74,443,443,true,SJC,North America,US,San Jose,179,2.97
+158.180.49.11,2053,443,true,FRA,Europe,DE,Frankfurt,255,2.95
+144.22.252.124,443,443,true,GRU,South America,BR,São Paulo,389,2.83
+152.67.44.30,443,443,true,GIG,South America,BR,Rio de Janeiro,364,2.73
+150.230.20.156,8443,443,true,AMS,Europe,NL,Amsterdam,193,2.65
+132.226.163.224,2053,443,true,GRU,South America,BR,São Paulo,458,2.64
+168.138.141.235,2053,443,true,GRU,South America,BR,São Paulo,364,2.56
+141.144.198.113,8443,443,true,AMS,Europe,NL,Amsterdam,285,2.55
+129.151.254.48,443,443,true,MRS,Europe,FR,Marseille,324,2.49
+129.159.132.0,2053,443,true,TLV,Middle East,IL,Tel Aviv,195,2.49
+89.168.43.31,8443,443,true,CDG,Europe,FR,Paris,157,2.48
+89.168.43.31,2053,443,true,CDG,Europe,FR,Paris,251,2.34
+129.158.198.241,2053,443,true,IAD,North America,US,Ashburn,246,2.33
+150.230.20.156,2053,443,true,AMS,Europe,NL,Amsterdam,212,2.29
+158.178.238.239,443,443,true,SIN,Asia Pacific,SG,Singapore,155,2.22
+129.159.132.0,8443,443,true,TLV,Middle East,IL,Tel Aviv,228,2.14
+158.180.49.11,8443,443,true,FRA,Europe,DE,Frankfurt,179,1.94
+129.158.198.241,8443,443,true,IAD,North America,US,Ashburn,305,1.77
+158.101.15.48,443,443,true,LAX,North America,US,Los Angeles,295,1.66
+141.144.198.113,2053,443,true,AMS,Europe,NL,Amsterdam,303,1.65
+192.18.148.248,443,443,true,YYZ,North America,CA,Toronto,362,1.10
+144.24.90.107,443,443,true,ICN,Asia Pacific,KR,Seoul,179,0.74
+89.168.68.57,8443,443,true,FRA,Europe,DE,Frankfurt,203,0.72
+140.238.158.238,443,443,true,YYZ,North America,CA,Toronto,462,0.61
+146.235.59.153,8443,443,true,GRU,South America,BR,São Paulo,410,0.13
+129.159.84.71,443,443,true,IAD,North America,US,Ashburn,326,0.05
+164.152.17.14,443,443,true,ORD,North America,US,Chicago,212,0.03
+146.56.41.69,2052,2052,false,ICN,Asia Pacific,KR,Seoul,70,0.00
+193.123.233.143,2083,80,false,ICN,Asia Pacific,KR,Seoul,80,0.00
+168.138.47.238,8443,80,false,KIX,Asia Pacific,JP,Osaka,80,0.00
+146.56.162.25,80,80,false,ICN,Asia Pacific,KR,Seoul,82,0.00
+150.230.62.27,443,80,false,KIX,Asia Pacific,JP,Osaka,83,0.00
+193.122.100.30,8880,80,false,ICN,Asia Pacific,KR,Seoul,86,0.00
+146.56.133.140,2096,80,false,ICN,Asia Pacific,KR,Seoul,86,0.00
+146.56.117.129,2052,2086,false,ICN,Asia Pacific,KR,Seoul,87,0.00
+193.122.100.30,8880,80,false,ICN,Asia Pacific,KR,Seoul,88,0.00
+140.83.57.116,8443,80,false,KIX,Asia Pacific,JP,Osaka,90,0.00
+146.56.133.140,2083,80,false,ICN,Asia Pacific,KR,Seoul,98,0.00
+152.67.222.250,80,80,false,ICN,Asia Pacific,KR,Seoul,116,0.00
+140.238.19.2,443,80,false,ICN,Asia Pacific,KR,Seoul,124,0.00
+168.138.194.74,443,443,true,NRT,Asia Pacific,JP,Tokyo,127,0.00
+193.123.232.218,2086,2086,false,ICN,Asia Pacific,KR,Seoul,130,0.00
+152.70.39.199,2082,2082,false,ICN,Asia Pacific,KR,Seoul,144,0.00
+152.70.39.199,2052,80,false,ICN,Asia Pacific,KR,Seoul,147,0.00
+193.123.233.143,2096,80,false,ICN,Asia Pacific,KR,Seoul,150,0.00
+144.24.76.213,2052,2052,false,ICN,Asia Pacific,KR,Seoul,151,0.00
+193.122.125.14,8880,8880,false,ICN,Asia Pacific,KR,Seoul,154,0.00
+193.122.100.30,2082,2082,false,ICN,Asia Pacific,KR,Seoul,156,0.00
+130.61.223.237,80,80,false,FRA,Europe,DE,Frankfurt,158,0.00
+150.230.196.248,443,443,true,NRT,Asia Pacific,JP,Tokyo,163,0.00
+130.162.61.18,80,80,false,FRA,Europe,DE,Frankfurt,163,0.00
+146.56.41.69,2086,2086,false,ICN,Asia Pacific,KR,Seoul,166,0.00
+193.123.232.218,2082,2082,false,ICN,Asia Pacific,KR,Seoul,168,0.00
+193.122.100.30,2086,2086,false,ICN,Asia Pacific,KR,Seoul,171,0.00
+193.122.100.30,2082,2082,false,ICN,Asia Pacific,KR,Seoul,176,0.00
+89.168.122.44,80,80,false,FRA,Europe,DE,Frankfurt,177,0.00
+140.83.61.244,443,443,true,KIX,Asia Pacific,JP,Osaka,179,0.00
+146.235.204.107,80,80,false,SJC,North America,US,San Jose,179,0.00
+193.123.235.59,443,443,true,ICN,Asia Pacific,KR,Seoul,190,0.00
+152.70.155.147,8880,8880,false,LAX,North America,US,Los Angeles,194,0.00
+165.1.76.23,80,80,false,SJC,North America,US,San Jose,196,0.00
+152.70.155.147,8080,8080,false,LAX,North America,US,Los Angeles,196,0.00
+152.70.155.147,2082,2082,false,LAX,North America,US,Los Angeles,199,0.00
+152.70.155.147,80,80,false,LAX,North America,US,Los Angeles,201,0.00
+152.70.39.199,2086,2086,false,ICN,Asia Pacific,KR,Seoul,202,0.00
+152.70.155.147,2052,2052,false,LAX,North America,US,Los Angeles,205,0.00
+152.70.155.147,2095,2095,false,LAX,North America,US,Los Angeles,206,0.00
+140.83.86.166,443,443,true,KIX,Asia Pacific,JP,Osaka,214,0.00
+129.146.240.62,443,443,true,LAX,North America,US,Los Angeles,225,0.00
+129.146.60.210,443,443,true,LAX,North America,US,Los Angeles,230,0.00
+152.70.155.147,2086,2086,false,LAX,North America,US,Los Angeles,273,0.00
+64.110.101.125,443,443,true,KIX,Asia Pacific,JP,Osaka,275,0.00
+150.136.87.192,443,443,true,IAD,North America,US,Ashburn,287,0.00
+192.18.134.231,443,443,true,SJC,North America,US,San Jose,291,0.00
+192.18.159.129,443,443,true,YYZ,North America,CA,Toronto,291,0.00
+146.56.46.84,443,443,true,ICN,Asia Pacific,KR,Seoul,298,0.00
+150.230.122.76,443,443,true,LHR,Europe,GB,London,302,0.00
+141.144.253.109,443,443,true,FRA,Europe,DE,Frankfurt,330,0.00
+164.152.34.166,80,8080,false,GRU,South America,BR,São Paulo,346,0.00
