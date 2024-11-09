@@ -1,0 +1,315 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
+96.0.147.114,443,80,false,MNL,Asia Pacific,PH,Manila,28,0.00
+96.0.144.100,80,80,false,MNL,Asia Pacific,PH,Manila,30,0.00
+96.0.148.93,80,80,false,MNL,Asia Pacific,PH,Manila,30,0.00
+96.0.147.114,80,80,false,MNL,Asia Pacific,PH,Manila,31,0.00
+16.162.177.179,2083,80,false,HKG,Asia Pacific,HK,Hong Kong,51,0.00
+65.1.148.157,80,80,false,BOM,Asia Pacific,IN,Mumbai,61,0.00
+16.162.172.91,2095,80,false,HKG,Asia Pacific,HK,Hong Kong,71,0.00
+13.215.211.239,8080,80,false,SIN,Asia Pacific,SG,Singapore,72,0.00
+13.215.80.221,2096,80,false,SIN,Asia Pacific,SG,Singapore,85,0.00
+13.215.80.221,2082,80,false,SIN,Asia Pacific,SG,Singapore,86,0.00
+13.237.223.44,2052,80,false,SYD,Oceania,AU,Sydney,92,0.00
+13.55.237.163,2082,80,false,SYD,Oceania,AU,Sydney,95,0.00
+13.55.237.163,2053,80,false,SYD,Oceania,AU,Sydney,98,0.00
+13.55.238.1,2096,80,false,SYD,Oceania,AU,Sydney,100,0.00
+13.215.80.221,2086,80,false,SIN,Asia Pacific,SG,Singapore,101,0.00
+13.237.94.188,2052,80,false,SYD,Oceania,AU,Sydney,101,0.00
+13.54.173.154,2086,80,false,SYD,Oceania,AU,Sydney,102,0.00
+13.236.104.165,2086,80,false,SYD,Oceania,AU,Sydney,103,0.00
+13.55.59.224,2052,80,false,SYD,Oceania,AU,Sydney,104,0.00
+13.215.80.221,2095,80,false,SIN,Asia Pacific,SG,Singapore,104,0.00
+13.55.237.163,2095,80,false,SYD,Oceania,AU,Sydney,105,0.00
+13.55.237.163,2052,80,false,SYD,Oceania,AU,Sydney,106,0.00
+13.55.59.224,2083,80,false,SYD,Oceania,AU,Sydney,106,0.00
+13.55.238.1,2095,80,false,SYD,Oceania,AU,Sydney,108,0.00
+13.238.235.196,2082,80,false,SYD,Oceania,AU,Sydney,108,0.00
+13.55.237.163,2083,80,false,SYD,Oceania,AU,Sydney,110,0.00
+15.165.63.136,2053,80,false,ICN,Asia Pacific,KR,Seoul,110,0.00
+13.55.59.224,2086,80,false,SYD,Oceania,AU,Sydney,113,0.00
+13.237.94.188,2083,80,false,SYD,Oceania,AU,Sydney,114,0.00
+13.55.59.224,2095,80,false,SYD,Oceania,AU,Sydney,115,0.00
+16.162.172.91,2053,80,false,HKG,Asia Pacific,HK,Hong Kong,118,0.00
+13.237.94.188,2087,80,false,SYD,Oceania,AU,Sydney,119,0.00
+16.162.177.179,2096,80,false,HKG,Asia Pacific,HK,Hong Kong,120,0.00
+13.54.81.122,2052,80,false,SYD,Oceania,AU,Sydney,121,0.00
+13.236.104.165,2053,80,false,SYD,Oceania,AU,Sydney,121,0.00
+13.55.59.224,2053,80,false,SYD,Oceania,AU,Sydney,125,0.00
+13.236.104.165,2087,80,false,SYD,Oceania,AU,Sydney,125,0.00
+13.237.94.188,2095,80,false,SYD,Oceania,AU,Sydney,127,0.00
+13.54.173.154,2087,80,false,SYD,Oceania,AU,Sydney,129,0.00
+16.162.172.91,2083,80,false,HKG,Asia Pacific,HK,Hong Kong,129,0.00
+16.162.177.179,2086,80,false,HKG,Asia Pacific,HK,Hong Kong,130,0.00
+13.209.166.73,80,8080,false,ICN,Asia Pacific,KR,Seoul,131,0.00
+13.54.173.154,2095,80,false,SYD,Oceania,AU,Sydney,133,0.00
+16.162.172.91,2096,80,false,HKG,Asia Pacific,HK,Hong Kong,134,0.00
+13.237.94.188,2096,80,false,SYD,Oceania,AU,Sydney,135,0.00
+13.237.94.188,2053,80,false,SYD,Oceania,AU,Sydney,136,0.00
+16.162.177.179,2052,80,false,HKG,Asia Pacific,HK,Hong Kong,137,0.00
+16.162.177.179,2082,80,false,HKG,Asia Pacific,HK,Hong Kong,138,0.00
+13.215.80.221,2083,80,false,SIN,Asia Pacific,SG,Singapore,138,0.00
+15.165.63.136,2052,80,false,ICN,Asia Pacific,KR,Seoul,139,0.00
+13.238.235.196,2086,80,false,SYD,Oceania,AU,Sydney,141,0.00
+13.54.173.154,2083,80,false,SYD,Oceania,AU,Sydney,142,0.00
+13.238.235.196,2083,80,false,SYD,Oceania,AU,Sydney,144,0.00
+13.211.0.227,2083,80,false,SYD,Oceania,AU,Sydney,144,0.00
+13.238.235.196,2096,80,false,SYD,Oceania,AU,Sydney,146,0.00
+13.237.94.188,2082,80,false,SYD,Oceania,AU,Sydney,146,0.00
+13.238.235.196,2095,80,false,SYD,Oceania,AU,Sydney,146,0.00
+13.114.59.37,2052,80,false,NRT,Asia Pacific,JP,Tokyo,146,0.00
+16.162.172.91,2086,80,false,HKG,Asia Pacific,HK,Hong Kong,152,0.00
+13.54.173.154,2052,80,false,SYD,Oceania,AU,Sydney,153,0.00
+13.114.59.37,2052,80,false,NRT,Asia Pacific,JP,Tokyo,154,0.00
+13.238.235.196,2053,80,false,SYD,Oceania,AU,Sydney,155,0.00
+16.78.119.130,443,80,false,CGK,Asia Pacific,ID,Jakarta,159,0.00
+13.237.94.188,2086,80,false,SYD,Oceania,AU,Sydney,161,0.00
+13.54.173.154,2082,80,false,SYD,Oceania,AU,Sydney,161,0.00
+13.236.104.165,2052,80,false,SYD,Oceania,AU,Sydney,162,0.00
+16.162.177.179,2087,80,false,HKG,Asia Pacific,HK,Hong Kong,163,0.00
+13.55.59.224,2096,80,false,SYD,Oceania,AU,Sydney,164,0.00
+13.55.59.224,2087,80,false,SYD,Oceania,AU,Sydney,164,0.00
+13.55.238.1,2087,80,false,SYD,Oceania,AU,Sydney,166,0.00
+13.55.237.163,2096,80,false,SYD,Oceania,AU,Sydney,168,0.00
+13.36.63.124,2087,80,false,CDG,Europe,FR,Paris,169,0.00
+13.36.63.124,2095,80,false,CDG,Europe,FR,Paris,170,0.00
+13.236.104.165,2083,80,false,SYD,Oceania,AU,Sydney,170,0.00
+15.236.116.199,2082,80,false,CDG,Europe,FR,Paris,170,0.00
+13.36.63.124,2086,80,false,CDG,Europe,FR,Paris,170,0.00
+15.236.116.199,2083,80,false,CDG,Europe,FR,Paris,170,0.00
+13.54.173.154,2053,80,false,SYD,Oceania,AU,Sydney,170,0.00
+13.36.162.145,2095,80,false,CDG,Europe,FR,Paris,170,0.00
+15.188.168.174,2087,80,false,CDG,Europe,FR,Paris,170,0.00
+13.36.253.240,2096,80,false,CDG,Europe,FR,Paris,171,0.00
+13.36.162.145,2096,80,false,CDG,Europe,FR,Paris,172,0.00
+13.36.63.124,2096,80,false,CDG,Europe,FR,Paris,172,0.00
+13.36.162.145,2082,80,false,CDG,Europe,FR,Paris,172,0.00
+13.36.24.111,2095,80,false,CDG,Europe,FR,Paris,172,0.00
+176.116.21.136,2082,80,false,LHR,Europe,GB,London,172,0.00
+15.236.116.199,2087,80,false,CDG,Europe,FR,Paris,173,0.00
+13.36.162.145,2052,80,false,CDG,Europe,FR,Paris,173,0.00
+13.36.24.111,2082,80,false,CDG,Europe,FR,Paris,173,0.00
+13.40.164.7,80,80,false,LHR,Europe,GB,London,174,0.00
+15.188.168.174,2096,80,false,CDG,Europe,FR,Paris,174,0.00
+15.236.116.199,2052,80,false,CDG,Europe,FR,Paris,174,0.00
+16.162.172.91,2052,80,false,HKG,Asia Pacific,HK,Hong Kong,174,0.00
+13.36.253.240,2087,80,false,CDG,Europe,FR,Paris,174,0.00
+15.188.168.174,2052,80,false,CDG,Europe,FR,Paris,174,0.00
+13.36.253.240,2086,80,false,CDG,Europe,FR,Paris,175,0.00
+13.36.162.145,2083,80,false,CDG,Europe,FR,Paris,175,0.00
+176.116.21.74,2095,80,false,LHR,Europe,GB,London,175,0.00
+176.116.21.220,2083,80,false,LHR,Europe,GB,London,175,0.00
+176.116.21.186,2087,80,false,LHR,Europe,GB,London,176,0.00
+176.116.21.93,2082,80,false,LHR,Europe,GB,London,176,0.00
+16.162.177.179,2053,80,false,HKG,Asia Pacific,HK,Hong Kong,176,0.00
+15.165.63.136,2095,80,false,ICN,Asia Pacific,KR,Seoul,176,0.00
+176.116.21.127,2082,80,false,LHR,Europe,GB,London,176,0.00
+176.116.21.98,2086,80,false,LHR,Europe,GB,London,176,0.00
+176.116.21.36,2083,80,false,LHR,Europe,GB,London,176,0.00
+176.116.21.129,2053,80,false,LHR,Europe,GB,London,176,0.00
+13.36.253.240,2053,80,false,CDG,Europe,FR,Paris,177,0.00
+176.116.21.93,2095,80,false,LHR,Europe,GB,London,177,0.00
+13.36.162.145,2086,80,false,CDG,Europe,FR,Paris,177,0.00
+15.188.168.174,2095,80,false,CDG,Europe,FR,Paris,177,0.00
+13.54.173.154,2096,80,false,SYD,Oceania,AU,Sydney,177,0.00
+176.116.21.232,2082,80,false,LHR,Europe,GB,London,177,0.00
+176.116.21.180,2096,80,false,LHR,Europe,GB,London,177,0.00
+16.63.33.251,2087,80,false,ZRH,Europe,CH,Zurich,177,0.00
+176.116.21.94,2095,80,false,LHR,Europe,GB,London,177,0.00
+13.36.63.124,2053,80,false,CDG,Europe,FR,Paris,177,0.00
+176.116.21.91,2096,80,false,LHR,Europe,GB,London,177,0.00
+176.116.21.180,2052,80,false,LHR,Europe,GB,London,178,0.00
+13.55.238.1,2053,80,false,SYD,Oceania,AU,Sydney,178,0.00
+16.162.172.91,2087,80,false,HKG,Asia Pacific,HK,Hong Kong,178,0.00
+176.116.21.105,2087,80,false,LHR,Europe,GB,London,178,0.00
+16.63.33.251,2053,80,false,ZRH,Europe,CH,Zurich,178,0.00
+16.63.33.251,2096,80,false,ZRH,Europe,CH,Zurich,179,0.00
+16.162.172.91,2082,80,false,HKG,Asia Pacific,HK,Hong Kong,179,0.00
+176.116.21.140,2095,80,false,LHR,Europe,GB,London,179,0.00
+176.116.21.175,2082,80,false,LHR,Europe,GB,London,179,0.00
+176.116.21.75,2082,80,false,LHR,Europe,GB,London,179,0.00
+176.116.21.153,2095,80,false,LHR,Europe,GB,London,180,0.00
+16.63.33.251,2086,80,false,ZRH,Europe,CH,Zurich,180,0.00
+13.211.0.227,2053,80,false,SYD,Oceania,AU,Sydney,180,0.00
+176.116.21.152,2053,80,false,LHR,Europe,GB,London,180,0.00
+176.116.21.104,2082,80,false,LHR,Europe,GB,London,180,0.00
+15.161.186.110,2096,80,false,MXP,Europe,IT,Milan,181,0.00
+176.116.21.142,2086,80,false,LHR,Europe,GB,London,181,0.00
+176.116.21.136,2086,80,false,LHR,Europe,GB,London,181,0.00
+15.161.40.69,2053,80,false,MXP,Europe,IT,Milan,181,0.00
+176.116.21.101,2083,80,false,LHR,Europe,GB,London,182,0.00
+176.116.21.124,2096,80,false,LHR,Europe,GB,London,182,0.00
+16.63.33.251,2095,80,false,ZRH,Europe,CH,Zurich,182,0.00
+13.36.253.240,2082,80,false,CDG,Europe,FR,Paris,183,0.00
+15.161.119.140,2095,80,false,MXP,Europe,IT,Milan,183,0.00
+15.161.119.140,2083,80,false,MXP,Europe,IT,Milan,184,0.00
+16.162.177.179,2095,80,false,HKG,Asia Pacific,HK,Hong Kong,184,0.00
+176.116.21.94,2053,80,false,LHR,Europe,GB,London,184,0.00
+176.116.21.89,2053,80,false,LHR,Europe,GB,London,184,0.00
+176.116.21.137,2053,80,false,LHR,Europe,GB,London,184,0.00
+15.161.119.140,2052,80,false,MXP,Europe,IT,Milan,185,0.00
+13.236.104.165,2096,80,false,SYD,Oceania,AU,Sydney,185,0.00
+13.48.36.215,2053,80,false,ARN,Europe,SE,Stockholm,185,0.00
+13.53.47.110,2053,80,false,ARN,Europe,SE,Stockholm,185,0.00
+13.48.140.41,2052,80,false,ARN,Europe,SE,Stockholm,186,0.00
+15.161.74.249,2096,80,false,MXP,Europe,IT,Milan,186,0.00
+13.48.36.215,2052,80,false,ARN,Europe,SE,Stockholm,187,0.00
+13.211.0.227,2087,80,false,SYD,Oceania,AU,Sydney,187,0.00
+13.36.24.111,2083,80,false,CDG,Europe,FR,Paris,187,0.00
+13.36.24.111,2052,80,false,CDG,Europe,FR,Paris,187,0.00
+15.160.250.170,2052,80,false,MXP,Europe,IT,Milan,187,0.00
+13.48.140.41,2053,80,false,ARN,Europe,SE,Stockholm,187,0.00
+15.188.168.174,2083,80,false,CDG,Europe,FR,Paris,187,0.00
+15.161.40.69,2052,80,false,MXP,Europe,IT,Milan,187,0.00
+15.161.40.69,2083,80,false,MXP,Europe,IT,Milan,187,0.00
+15.161.74.249,2087,80,false,MXP,Europe,IT,Milan,187,0.00
+13.48.36.215,2096,80,false,ARN,Europe,SE,Stockholm,188,0.00
+15.161.216.233,2096,80,false,MXP,Europe,IT,Milan,188,0.00
+15.160.252.181,2086,80,false,MXP,Europe,IT,Milan,188,0.00
+15.161.186.110,2095,80,false,MXP,Europe,IT,Milan,188,0.00
+18.101.87.56,2082,80,false,MAD,Europe,ES,Madrid,188,0.00
+13.40.128.14,8443,443,true,LHR,Europe,GB,London,188,0.00
+13.48.140.41,2082,80,false,ARN,Europe,SE,Stockholm,188,0.00
+15.161.40.69,2082,80,false,MXP,Europe,IT,Milan,188,0.00
+15.161.119.140,2086,80,false,MXP,Europe,IT,Milan,188,0.00
+15.236.116.199,2053,80,false,CDG,Europe,FR,Paris,188,0.00
+15.161.119.140,2087,80,false,MXP,Europe,IT,Milan,188,0.00
+15.188.168.174,2053,80,false,CDG,Europe,FR,Paris,189,0.00
+13.37.165.175,2053,80,false,CDG,Europe,FR,Paris,189,0.00
+15.160.252.181,2096,80,false,MXP,Europe,IT,Milan,189,0.00
+15.161.74.249,2053,80,false,MXP,Europe,IT,Milan,189,0.00
+15.161.216.233,2087,80,false,MXP,Europe,IT,Milan,189,0.00
+18.101.242.202,2095,80,false,MAD,Europe,ES,Madrid,189,0.00
+13.53.47.110,2087,80,false,ARN,Europe,SE,Stockholm,189,0.00
+13.51.138.200,2082,80,false,ARN,Europe,SE,Stockholm,189,0.00
+13.55.237.163,2086,80,false,SYD,Oceania,AU,Sydney,190,0.00
+13.238.235.196,2087,80,false,SYD,Oceania,AU,Sydney,190,0.00
+15.161.74.249,2095,80,false,MXP,Europe,IT,Milan,190,0.00
+18.101.87.56,2052,80,false,MAD,Europe,ES,Madrid,190,0.00
+13.48.140.41,2083,80,false,ARN,Europe,SE,Stockholm,190,0.00
+15.236.116.199,2096,80,false,CDG,Europe,FR,Paris,191,0.00
+13.211.0.227,2086,80,false,SYD,Oceania,AU,Sydney,191,0.00
+15.160.252.181,2087,80,false,MXP,Europe,IT,Milan,191,0.00
+13.51.138.200,2095,80,false,ARN,Europe,SE,Stockholm,191,0.00
+15.161.119.140,2053,80,false,MXP,Europe,IT,Milan,191,0.00
+15.161.186.110,2052,80,false,MXP,Europe,IT,Milan,191,0.00
+15.160.252.181,2052,80,false,MXP,Europe,IT,Milan,192,0.00
+15.161.216.233,2053,80,false,MXP,Europe,IT,Milan,192,0.00
+15.160.250.170,2095,80,false,MXP,Europe,IT,Milan,192,0.00
+16.63.33.251,2082,80,false,ZRH,Europe,CH,Zurich,193,0.00
+13.49.6.192,2082,80,false,ARN,Europe,SE,Stockholm,193,0.00
+13.211.0.227,2082,80,false,SYD,Oceania,AU,Sydney,193,0.00
+18.101.118.37,2086,80,false,MAD,Europe,ES,Madrid,194,0.00
+18.101.242.202,2082,80,false,MAD,Europe,ES,Madrid,194,0.00
+13.53.47.110,2096,80,false,ARN,Europe,SE,Stockholm,194,0.00
+13.238.235.196,2052,80,false,SYD,Oceania,AU,Sydney,194,0.00
+16.63.33.251,2083,80,false,ZRH,Europe,CH,Zurich,194,0.00
+13.49.6.192,2095,80,false,ARN,Europe,SE,Stockholm,195,0.00
+13.51.138.200,2083,80,false,ARN,Europe,SE,Stockholm,195,0.00
+13.51.138.200,2096,80,false,ARN,Europe,SE,Stockholm,195,0.00
+13.48.36.215,2082,80,false,ARN,Europe,SE,Stockholm,195,0.00
+13.48.36.215,2086,80,false,ARN,Europe,SE,Stockholm,195,0.00
+13.48.140.41,2087,80,false,ARN,Europe,SE,Stockholm,195,0.00
+13.51.138.200,2053,80,false,ARN,Europe,SE,Stockholm,195,0.00
+15.161.215.18,2053,80,false,MXP,Europe,IT,Milan,195,0.00
+15.161.216.233,2082,80,false,MXP,Europe,IT,Milan,196,0.00
+16.171.230.81,443,443,true,AMS,Europe,NL,Amsterdam,196,0.00
+18.101.242.202,2086,80,false,MAD,Europe,ES,Madrid,196,0.00
+18.101.118.37,2052,80,false,MAD,Europe,ES,Madrid,196,0.00
+163.123.174.225,2053,80,false,SEA,North America,US,Seattle,196,0.00
+15.160.252.181,2082,80,false,MXP,Europe,IT,Milan,196,0.00
+163.123.174.24,2087,80,false,PDX,North America,US,Portland,196,0.00
+13.36.63.124,2082,80,false,CDG,Europe,FR,Paris,196,0.00
+163.123.174.23,2052,80,false,PDX,North America,US,Portland,196,0.00
+16.171.255.107,8080,443,true,HEL,Europe,FI,Helsinki,196,0.00
+13.53.47.110,2052,80,false,ARN,Europe,SE,Stockholm,197,0.00
+163.123.174.219,2095,80,false,PDX,North America,US,Portland,197,0.00
+13.53.47.110,2082,80,false,ARN,Europe,SE,Stockholm,197,0.00
+13.211.0.227,2096,80,false,SYD,Oceania,AU,Sydney,198,0.00
+15.161.216.233,2052,80,false,MXP,Europe,IT,Milan,198,0.00
+13.36.162.145,2087,80,false,CDG,Europe,FR,Paris,198,0.00
+15.161.186.110,2083,80,false,MXP,Europe,IT,Milan,198,0.00
+15.161.186.110,2082,80,false,MXP,Europe,IT,Milan,199,0.00
+15.161.186.110,2087,80,false,MXP,Europe,IT,Milan,199,0.00
+15.161.215.18,2083,80,false,MXP,Europe,IT,Milan,199,0.00
+163.123.174.36,2083,80,false,SEA,North America,US,Seattle,199,0.00
+13.36.253.240,2083,80,false,CDG,Europe,FR,Paris,199,0.00
+13.48.36.215,2087,80,false,ARN,Europe,SE,Stockholm,200,0.00
+163.123.174.217,2053,80,false,PDX,North America,US,Portland,200,0.00
+163.123.174.17,2096,80,false,SEA,North America,US,Seattle,201,0.00
+15.161.215.18,2086,80,false,MXP,Europe,IT,Milan,202,0.00
+13.49.33.226,80,80,false,ARN,Europe,SE,Stockholm,202,0.00
+13.48.36.215,2083,80,false,ARN,Europe,SE,Stockholm,203,0.00
+163.123.174.249,2053,80,false,SEA,North America,US,Seattle,204,0.00
+15.160.250.170,2083,80,false,MXP,Europe,IT,Milan,205,0.00
+15.160.250.170,2086,80,false,MXP,Europe,IT,Milan,208,0.00
+13.36.253.240,2052,80,false,CDG,Europe,FR,Paris,208,0.00
+15.160.252.181,2053,80,false,MXP,Europe,IT,Milan,208,0.00
+13.51.138.200,2086,80,false,ARN,Europe,SE,Stockholm,209,0.00
+13.36.162.145,2053,80,false,CDG,Europe,FR,Paris,209,0.00
+15.236.116.199,2086,80,false,CDG,Europe,FR,Paris,210,0.00
+15.161.215.18,2052,80,false,MXP,Europe,IT,Milan,212,0.00
+13.49.6.192,2053,80,false,ARN,Europe,SE,Stockholm,213,0.00
+13.53.47.110,2095,80,false,ARN,Europe,SE,Stockholm,213,0.00
+13.53.47.110,2086,80,false,ARN,Europe,SE,Stockholm,214,0.00
+15.161.119.140,2082,80,false,MXP,Europe,IT,Milan,214,0.00
+16.63.33.251,2052,80,false,ZRH,Europe,CH,Zurich,215,0.00
+15.188.168.174,2086,80,false,CDG,Europe,FR,Paris,215,0.00
+13.211.0.227,2052,80,false,SYD,Oceania,AU,Sydney,216,0.00
+13.48.36.215,2095,80,false,ARN,Europe,SE,Stockholm,216,0.00
+15.160.250.170,2096,80,false,MXP,Europe,IT,Milan,217,0.00
+15.236.116.199,2095,80,false,CDG,Europe,FR,Paris,217,0.00
+15.160.250.170,2087,80,false,MXP,Europe,IT,Milan,218,0.00
+15.161.74.249,2083,80,false,MXP,Europe,IT,Milan,219,0.00
+15.161.40.69,2087,80,false,MXP,Europe,IT,Milan,220,0.00
+15.188.168.174,2082,80,false,CDG,Europe,FR,Paris,222,0.00
+13.55.237.163,2087,80,false,SYD,Oceania,AU,Sydney,224,0.00
+15.161.216.233,2086,80,false,MXP,Europe,IT,Milan,226,0.00
+13.36.24.111,2087,80,false,CDG,Europe,FR,Paris,226,0.00
+13.48.140.41,2096,80,false,ARN,Europe,SE,Stockholm,227,0.00
+13.236.104.165,2095,80,false,SYD,Oceania,AU,Sydney,227,0.00
+13.48.140.41,2095,80,false,ARN,Europe,SE,Stockholm,231,0.00
+15.161.74.249,2052,80,false,MXP,Europe,IT,Milan,233,0.00
+13.36.63.124,2052,80,false,CDG,Europe,FR,Paris,233,0.00
+15.161.40.69,2086,80,false,MXP,Europe,IT,Milan,233,0.00
+13.36.63.124,2083,80,false,CDG,Europe,FR,Paris,238,0.00
+13.36.24.111,2086,80,false,CDG,Europe,FR,Paris,239,0.00
+15.160.252.181,2095,80,false,MXP,Europe,IT,Milan,240,0.00
+13.230.34.30,80,80,false,NRT,Asia Pacific,JP,Tokyo,240,0.00
+13.236.104.165,2082,80,false,SYD,Oceania,AU,Sydney,244,0.00
+13.49.6.192,2087,80,false,ARN,Europe,SE,Stockholm,246,0.00
+15.160.252.181,2083,80,false,MXP,Europe,IT,Milan,249,0.00
+15.161.186.110,2053,80,false,MXP,Europe,IT,Milan,250,0.00
+13.53.47.110,2083,80,false,ARN,Europe,SE,Stockholm,250,0.00
+15.160.250.170,2082,80,false,MXP,Europe,IT,Milan,251,0.00
+13.49.6.192,2096,80,false,ARN,Europe,SE,Stockholm,253,0.00
+15.161.216.233,2095,80,false,MXP,Europe,IT,Milan,254,0.00
+15.160.250.170,2053,80,false,MXP,Europe,IT,Milan,255,0.00
+15.161.216.233,2083,80,false,MXP,Europe,IT,Milan,257,0.00
+15.161.186.110,2086,80,false,MXP,Europe,IT,Milan,259,0.00
+13.48.93.184,80,80,false,ARN,Europe,SE,Stockholm,264,0.00
+15.161.215.18,2095,80,false,MXP,Europe,IT,Milan,267,0.00
+15.161.215.18,2087,80,false,MXP,Europe,IT,Milan,268,0.00
+15.161.215.18,2096,80,false,MXP,Europe,IT,Milan,271,0.00
+15.161.215.18,2082,80,false,MXP,Europe,IT,Milan,272,0.00
+13.231.68.156,443,443,true,NRT,Asia Pacific,JP,Tokyo,275,0.00
+13.211.0.227,2095,80,false,SYD,Oceania,AU,Sydney,279,0.00
+15.161.74.249,2086,80,false,MXP,Europe,IT,Milan,279,0.00
+15.161.74.249,2082,80,false,MXP,Europe,IT,Milan,289,0.00
+15.161.40.69,2096,80,false,MXP,Europe,IT,Milan,291,0.00
+15.161.40.69,2095,80,false,MXP,Europe,IT,Milan,293,0.00
+13.61.61.211,2052,443,true,HEL,Europe,FI,Helsinki,293,0.00
+15.161.119.140,2096,80,false,MXP,Europe,IT,Milan,295,0.00
+13.246.85.121,2095,80,false,CPT,Africa,ZA,Cape Town,310,0.00
+13.245.152.196,2096,80,false,CPT,Africa,ZA,Cape Town,314,0.00
+13.245.152.196,2082,80,false,CPT,Africa,ZA,Cape Town,316,0.00
+13.245.152.196,2053,80,false,CPT,Africa,ZA,Cape Town,318,0.00
+13.246.85.121,2083,80,false,CPT,Africa,ZA,Cape Town,319,0.00
+13.246.85.121,2087,80,false,CPT,Africa,ZA,Cape Town,321,0.00
+13.246.85.121,2053,80,false,CPT,Africa,ZA,Cape Town,325,0.00
+13.246.85.121,2052,80,false,CPT,Africa,ZA,Cape Town,327,0.00
+13.245.152.196,2086,80,false,CPT,Africa,ZA,Cape Town,327,0.00
+13.246.85.121,2096,80,false,CPT,Africa,ZA,Cape Town,342,0.00
+13.246.85.121,2082,80,false,CPT,Africa,ZA,Cape Town,347,0.00
+13.61.61.211,2053,443,true,ARN,Europe,SE,Stockholm,357,0.00
+13.246.85.121,2086,80,false,CPT,Africa,ZA,Cape Town,367,0.00
+13.125.218.78,443,443,true,ICN,Asia Pacific,KR,Seoul,428,0.00
